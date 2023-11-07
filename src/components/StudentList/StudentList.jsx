@@ -24,6 +24,7 @@ function StudentList() {
 
     return (
         <div>
+            <p>Student list:</p>
             <table>
                 <thead>
                     <tr>
